@@ -23,3 +23,8 @@ Click the Customize Cookies to display several options with checkboxes that enab
 - Site Preferences - These are cookies that are related to site preferences, e.g. remembering your username, site colours, etc.
 
 After Installing this plugin, it will automatically run on website, you dont need to put any code
+
+<u>You also contact us for Android and iOS App :</u>
+
+1) <a href="https://rackons.in" target="_blank">Android and iOS APP</a>
+If you need more information, you can visit our <a href="https://forums.rackons.in/" target="_blank">forums</a> or <a href="https://osclassmarket.rackons.in/" target="_blank">officially Rackons Market</a>
