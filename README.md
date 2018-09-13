@@ -1,15 +1,15 @@
-Plugin Name: GDPR Cookie Compliance Plugin
-Plugin URI: https://osclassmarket.rackons.in/
-Version: 1.2.1
-Author: Rackons Market
-Author URI: https://osclassmarket.rackons.in/
-Author Email: info@rackons.in
-Short Name: gdpr_cookie_compliance
-
+Plugin Name: GDPR Cookie Compliance Plugin<br>
+Plugin URI: https://osclassmarket.rackons.in/<br>
+Version: 1.2.1<br>
+Author: Rackons Market<br>
+Author URI: https://osclassmarket.rackons.in/<br>
+Author Email: info@rackons.in<br>
+Short Name: gdpr_cookie_compliance<br>
+<br><br>
 
 Description: 
 
-
+<br>
 GDPR plugin for cookie policies that displays a GDPR Cookie Consent Notice popup to helps you comply with General Data Protection Regulation (GDPR).
 
 Click the Customize Cookies to display several options with checkboxes that enable the visitors to opt-in and opt-out of the various types of cookies: 
